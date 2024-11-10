@@ -1,0 +1,203 @@
+body{
+    background:linear-gradient(#000000 0%, rgb(5, 21, 80) 80%);
+    padding-bottom: 1000px;
+}
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top:  90px;
+}
+.ProfileImage{
+    width: 200px;
+}
+.profile h2 {
+    color: white;
+    font-style: bold;
+    font-family: Arial;
+    font-variant: small-caps;
+    transform: translatey(10px);
+}
+.profile h4 {
+    color: white;
+    font-style: italic;
+    transform: translateY(1px);
+}
+.aaa{
+    margin-top: 200px;
+}
+.bbb{
+    margin-top: -50px;
+}
+.ABOUTME{
+    background-color: #000000;
+    padding-bottom: 125px;
+    margin-top: -150px;
+}
+.ABOUTME h1{
+    transform: translateY(38px);
+    color: white;
+}
+.ABOUTME div{
+    color: white;
+    transform: translateY(30px);
+}
+.tabel {
+    transform: translateY(40px);
+    text-align: justify;
+}
+/* .education{    
+
+} */
+.education h1 {    
+    color: white;
+    transform: translateY(10px);
+}
+.EDUCATIONCARD {
+    position: absolute;
+    top: 1800px;
+    left: 300px;
+    width: 290px;
+    height: 250px;
+    background-color: black;
+    border: 1px solid snow;
+    border-radius: 8px;
+    flex-direction: column;
+    
+    
+}
+.EDUCATIONCARD2 {
+    position: absolute;
+    top: 1800px;
+    left: 600px;
+    width: 290px;
+    height: 250px;
+    background-color: black;
+    border: 1px solid snow;
+    border-radius: 8px;
+    flex-direction: column;
+}
+.EDUCATIONCARD3 {
+    position: absolute;
+    top: 1800px;
+    left: 900px;
+    width: 290px;
+    height: 250px;
+    background-color: black;
+    border: 1px solid snow;
+    border-radius: 8px;
+    flex-direction: column;
+}
+.EDUCATIONCARD4 {
+    position: absolute;
+    top: 1800px;
+    left: 1200px;
+    width: 290px;
+    height: 250px;
+    background-color: black;
+    border: 1px solid snow;
+    border-radius: 8px;
+    flex-direction: column;
+    
+}
+.card-text{
+    color: white;
+}
+.GGG{
+    margin-top: -100px;
+}
+.GGGG{
+    margin-top: -100px;
+}
+.organisasi h1{
+    color: white;
+    margin-top: -25px;
+}
+.ORGANISATIONCARD1{
+    width: 1000PX;
+    height: 225px;
+    background-color: black;
+    border: 1px solid snow;
+    border-radius: 8px;
+    flex-direction: column;
+    margin-top: 50PX;
+    margin-left: 450px;
+}
+.FOTO1{
+    border: 1px solid snow;
+    border-radius: 8px;
+    margin-left: 670px ;
+    margin-top: 25px;
+}
+.TEKSKARTU1 h1{
+    margin-top: -175px;
+    margin-left: 20px;
+}
+.TEKSKARTU1 p{
+    margin-left: 25px;
+    margin-top: 30px;
+}
+.ORGANISATIONCARD2{
+    width: 1000PX;
+    height: 225px;
+    background-color: black;
+    border: 1px solid snow;
+    border-radius: 8px;
+    flex-direction: column;
+    margin-top: 50PX;
+    margin-left: 450px;
+}
+.FOTO2{
+    border: 1px solid snow;
+    border-radius: 8px;
+    margin-left: 670px ;
+    margin-top: 25px;
+}
+.TEKSKARTU2 h1{
+    margin-top: -175px;
+    margin-left: 20px;
+}
+.TEKSKARTU2 p{
+    margin-left: 25px;
+    margin-top: 30px;
+}
+.ORGANISATIONCARD3{
+    width: 1000PX;
+    height: 225px;
+    background-color: black;
+    border: 1px solid snow;
+    border-radius: 8px;
+    flex-direction: column;
+    margin-top: 50PX;
+    margin-left: 450px;
+}
+.FOTO3{
+    border: 1px solid snow;
+    border-radius: 8px;
+    margin-left: 670px ;
+    margin-top: 25px;
+}
+.TEKSKARTU3 h1{
+    margin-top: -175px;
+    margin-left: 20px;
+}
+.TEKSKARTU3 p{
+    margin-left: 25px;
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
