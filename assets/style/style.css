@@ -1,6 +1,6 @@
 body{
     background:linear-gradient(#000000 0%, rgb(5, 21, 80) 80%);
-    padding-bottom: 1000px;
+    padding-bottom: 200px;
 }
 .profile{
     display: flex;
@@ -57,7 +57,7 @@ body{
 .EDUCATIONCARD {
     position: absolute;
     top: 1800px;
-    left: 300px;
+    left: 350px;
     width: 290px;
     height: 250px;
     background-color: black;
@@ -70,7 +70,7 @@ body{
 .EDUCATIONCARD2 {
     position: absolute;
     top: 1800px;
-    left: 600px;
+    left: 650px;
     width: 290px;
     height: 250px;
     background-color: black;
@@ -81,7 +81,7 @@ body{
 .EDUCATIONCARD3 {
     position: absolute;
     top: 1800px;
-    left: 900px;
+    left: 950px;
     width: 290px;
     height: 250px;
     background-color: black;
@@ -92,7 +92,7 @@ body{
 .EDUCATIONCARD4 {
     position: absolute;
     top: 1800px;
-    left: 1200px;
+    left: 1250px;
     width: 290px;
     height: 250px;
     background-color: black;
@@ -105,14 +105,24 @@ body{
     color: white;
 }
 .GGG{
-    margin-top: -100px;
+    position: fixed;
+    top: 1000px;
 }
 .GGGG{
-    margin-top: -100px;
+    position: fixed;
+    top : 1200px;
+}
+.ACHIEV{
+    color: white;
+    margin-left: 825px;
+    margin-top: 1000px;
+}
+.ACHIEV div{
+    margin-top: 200px;
 }
 .organisasi h1{
     color: white;
-    margin-top: -25px;
+    margin-top: 900px;
 }
 .ORGANISATIONCARD1{
     width: 1000PX;
@@ -121,7 +131,7 @@ body{
     border: 1px solid snow;
     border-radius: 8px;
     flex-direction: column;
-    margin-top: 50PX;
+    margin-top: 100PX;
     margin-left: 450px;
 }
 .FOTO1{
@@ -145,7 +155,7 @@ body{
     border: 1px solid snow;
     border-radius: 8px;
     flex-direction: column;
-    margin-top: 50PX;
+    margin-top: 20px;
     margin-left: 450px;
 }
 .FOTO2{
@@ -169,7 +179,7 @@ body{
     border: 1px solid snow;
     border-radius: 8px;
     flex-direction: column;
-    margin-top: 50PX;
+    margin-top: 20PX;
     margin-left: 450px;
 }
 .FOTO3{
