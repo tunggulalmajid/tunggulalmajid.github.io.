@@ -1,2 +1,2 @@
 click to view :
-<a href="tunggulalmajid.github.io.">tunggulalmajid.github.io</a>
+<a href="https://tunggulalmajid.github.io/tunggulalmajid.github.io./">click here</a>
