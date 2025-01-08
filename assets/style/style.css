@@ -2,6 +2,12 @@ body{
     background:linear-gradient(#000000 0%, rgb(5, 21, 80) 80%);
     padding-bottom: 200px;
 }
+.Link{
+    color: aliceblue;
+    font-family: Georgia;
+    margin-top: 20px;
+    
+}
 .profile{
     display: flex;
     justify-content: center;
