@@ -1,32 +1,29 @@
 body{
-    background:linear-gradient(#000000 0%, rgb(5, 21, 80) 80%);
+    background-image: linear-gradient(black 5%, rgb(16, 10, 59),black);
     padding-bottom: 200px;
+    color: white;
 }
 .Link{
     color: aliceblue;
     font-family: Georgia;
     margin-top: 20px;
-    
 }
 .profile{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    margin-top:  90px;
+    margin-top:  150px;
 }
 .ProfileImage{
-    width: 200px;
+    width: 500px;
 }
 .profile h2 {
-    color: white;
     font-style: bold;
     font-family: Arial;
-    font-variant: small-caps;
     transform: translatey(10px);
 }
 .profile h4 {
-    color: white;
     font-style: italic;
     transform: translateY(1px);
 }
@@ -37,9 +34,7 @@ body{
     margin-top: -50px;
 }
 .ABOUTME{
-    background-color: #000000;
     padding-bottom: 125px;
-    margin-top: -150px;
 }
 .ABOUTME h1{
     transform: translateY(38px);
