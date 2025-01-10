@@ -8,9 +8,10 @@ body{
     top: 0;
     z-index: 1000; /* Memastikan navigasi bar berada di atas elemen lain */
     padding: 10px 0; /* Sesuaikan padding sesuai kebutuhan */
+    background-color: rgba(0, 0, 0, 0.3);
 }
 .Link{
-    color: aliceblue;
+    color: rgb(255, 255, 255);
     font-family: Georgia;
 }
 .profile{
@@ -57,11 +58,25 @@ body{
 .education .card{
     background-color: rgba(107, 107, 107, 0.477);
     box-shadow: 5px 10px 15px rgba(0, 0, 0, 0.411);
-    border: 1px solid black;
-    width: 400px;
-    height: 150px;
+    border: 1px solid rgba(254, 254, 254,0.3);
+    width: 20rem;
+    height: 480px;
     color: rgb(255, 255, 255);
+    /* overflow:auto; */
     
+}
+.education .card .sd{
+    padding: 20px;
+    margin-top: 40px;
+}
+.education .card .smp{
+    padding: 70px;
+}
+.education .card .sma{
+    padding: 100px;
+}
+.education .card .unej{
+    padding: 70px;
 }
 
 .card-body h2{
