@@ -65,18 +65,28 @@ body{
     /* overflow:auto; */
     
 }
+
 .education .card .sd{
-    padding: 20px;
+    padding: 10px;
     margin-top: 40px;
 }
 .education .card .smp{
-    padding: 70px;
+    padding: 60px;
 }
 .education .card .sma{
-    padding: 100px;
+    padding: 90px;
+}
+.education .card .sdbody{
+    transform: translateY(30px);
 }
 .education .card .unej{
-    padding: 70px;
+    padding: 60px;
+}
+.education .card .unejbody{
+    transform: translateY(37px);
+}
+.education .card .smpbody{
+    transform: translateY(30px);
 }
 
 .card-body h2{
