@@ -74,84 +74,26 @@ body{
 
 .organisasi .text-center{
     margin-top: 450px;
+}
+.organisasi .kartu{
     transform: translateY(50px);
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
 }
 .organisasi .card{
     display: flex;
-    flex-direction: row;
-    width: 1000PX;
-    height: 225px;
+    gap: 15px;
+    width: 20rem;
     background-color: rgba(107, 107, 107, 0.477);
+    box-shadow: 5px 10px 15px rgba(16, 10, 59,0.75);
+    border: 1px solid rgba(255, 255, 255, 0.324);
+    color: white;
 }
-/* .ORGANISATIONCARD1{
-    width: 1000PX;
-    height: 225px;
-    background-color: black;
-    border: 1px solid snow;
-    border-radius: 8px;
-    flex-direction: column;
-    margin-top: 100PX;
-    margin-left: 450px;
+.organisasi .card img{
+    padding: 5px;
 }
-.FOTO1{
-    border: 1px solid snow;
-    border-radius: 8px;
-    margin-left: 670px ;
-    margin-top: 25px;
+.organisasi .card .laos{
+    padding: 47px;
 }
-.TEKSKARTU1 h1{
-    margin-top: -175px;
-    margin-left: 20px;
-}
-.TEKSKARTU1 p{
-    margin-left: 25px;
-    margin-top: 30px;
-}
-.ORGANISATIONCARD2{
-    width: 1000PX;
-    height: 225px;
-    background-color: rgb(0, 0, 0);
-    border: 1px solid snow;
-    border-radius: 8px;
-    flex-direction: column;
-    margin-top: 20px;
-    margin-left: 450px;
-}
-.FOTO2{
-    border: 1px solid snow;
-    border-radius: 8px;
-    margin-left: 670px ;
-    margin-top: 25px;
-}
-.TEKSKARTU2 h1{
-    margin-top: -175px;
-    margin-left: 20px;
-}
-.TEKSKARTU2 p{
-    margin-left: 25px;
-    margin-top: 30px;
-}
-.ORGANISATIONCARD3{
-    width: 1000PX;
-    height: 225px;
-    background-color: black;
-    border: 1px solid snow;
-    border-radius: 8px;
-    flex-direction: column;
-    margin-top: 20PX;
-    margin-left: 450px;
-}
-.FOTO3{
-    border: 1px solid snow;
-    border-radius: 8px;
-    margin-left: 670px ;
-    margin-top: 25px;
-}
-.TEKSKARTU3 h1{
-    margin-top: -175px;
-    margin-left: 20px;
-}
-.TEKSKARTU3 p{
-    margin-left: 25px;
-    margin-top: 30px;
-} */
